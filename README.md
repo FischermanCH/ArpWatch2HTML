@@ -1,4 +1,4 @@
-## ArpWatch2HTAML (by Fischerman.ch and AI)
+## ArpWatch2HTAML (by Fischerman.ch and Friend's)
 
 ### This perl script(s) generate a static, but human readable html page where the results of Arpwatch are presented in a simple (green) table.
 Also the IP addresses are sorted and if you click on the IP address, the links brings you to "http://IP.addr"
