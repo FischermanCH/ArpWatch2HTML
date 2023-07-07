@@ -1,11 +1,13 @@
-This perl script(s) generate a static, but human readable html page where the results of Arpwatch are presented in a simple (green) table.
+## ArpWatch2HTAML (by Fischerman.ch and AI)
+
+### This perl script(s) generate a static, but human readable html page where the results of Arpwatch are presented in a simple (green) table.
 Also the IP addresses are sorted and if you click on the IP address, the links brings you to "http://IP.addr"
 
 If you want to use this script, make sure you have installed Aprwatch on your system
 aprwatch information can be found here : https://en.wikipedia.org/wiki/Arpwatch
 
 
-ArpWatch2HTML usage
+### ArpWatch2HTML usage
 
 - Download ArpWatch2HTML.zip and unpack it somewhere on your system.
 - start Aprwatch on your system with a command like this "arpwatch -f /PATH/TO/THE/OUTPUTFILE -i INTERFACE-NAME -d "
@@ -22,7 +24,7 @@ ArpWatch2HTML usage
 The whole code was generated using artificial intelligence !!!
 If you think the code is worth further developing, drop me a note or just grab the code and make it better ;-)
 
-Homepage of ArpWatch2HTML -> https://www.fischerman.ch/?page_id=530202
+### Homepage of ArpWatch2HTML -> https://www.fischerman.ch/?page_id=530202
 
 
 
